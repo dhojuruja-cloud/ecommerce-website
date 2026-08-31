@@ -1,3 +1,6 @@
+# ecommerce_website
+A modern responsive e-commerce web application built with PHP, MySQL, HTML, CSS, and JavaScript featuring authentication, product management, shopping cart, orders, admin dashboard, and payment integration.
+
 # MarketNest
 
 MarketNest is a small-scale PHP + MySQL e-commerce application designed for a university software development assignment. It includes customer shopping flows, authentication, order management, and an admin dashboard.
